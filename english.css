@@ -1,0 +1,6 @@
+.hero h1{max-width:1080px;font-family:Georgia,"Times New Roman",serif;letter-spacing:-.045em}
+.hero-bottom p,.about-copy,.section-head p,.book-info p,.quote p,.contact-intro p{font-family:Georgia,"Times New Roman",serif}
+.about h2,.contact h2{font-family:Georgia,"Times New Roman",serif}
+.book-cover h3{font-family:Georgia,"Times New Roman",serif;writing-mode:vertical-rl;font-size:clamp(24px,2.5vw,34px);letter-spacing:.02em}
+.book-cover small{line-height:1.5}.section-head p{max-width:420px;text-align:right}.contact .email{font-size:clamp(14px,1.7vw,21px)}
+@media(max-width:760px){.hero h1{font-size:46px}.section-head p{text-align:left}.book-cover h3{font-size:30px}.contact .email{font-size:13px;padding:15px}}
